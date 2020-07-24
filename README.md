@@ -1,4 +1,11 @@
-# Forked from thinkgem/jeesite 
+# Forked from thinkgem/jeesite，
+# 计划精简和重构部分功能：
+1.spring framework调整为spring boot
+2.移除OA CRM 流程
+3.代码生成模块改为ibeetl实现
+4.输出支持layui风格表单
+5.增加动态表单配置
+6.移除其它功能
 
 ## 关注 JeeSite 4.0 请移步: <https://gitee.com/thinkgem/jeesite4>
 
